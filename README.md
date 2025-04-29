@@ -2,7 +2,7 @@
 
 # USER POOL APIs
 
-# 1. )Auth2.0 APIs
+# 1. OAuth2.0 APIs
 
 ## a) To get OAuth Tokens using the token endpoint
 
